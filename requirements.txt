@@ -1,0 +1,32 @@
+# Core processing
+numpy
+pandas
+matplotlib
+
+# Audio processing
+moviepy==1.0.3
+torchaudio
+torchaudio[soundfile]
+
+# Video processing
+opencv-python
+
+# Emotion recognition (facial expressions)
+fer
+
+# Machine learning
+scikit-learn
+torch
+transformers
+
+# Optional extras
+# jupyterlab  # If using notebooks in VSCode
+
+
+tdqm
+seaborn
+sounddevice
+scipy
+pydub
+tensorflow
+csv
