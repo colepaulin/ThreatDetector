@@ -1,0 +1,33 @@
+{
+    "friendly": {
+        "precision": 0.9,
+        "recall": 0.6923076923076923,
+        "f1-score": 0.782608695652174,
+        "support": 13.0
+    },
+    "threat": {
+        "precision": 0.6923076923076923,
+        "recall": 0.9,
+        "f1-score": 0.782608695652174,
+        "support": 10.0
+    },
+    "accuracy": 0.782608695652174,
+    "macro avg": {
+        "precision": 0.7961538461538462,
+        "recall": 0.7961538461538462,
+        "f1-score": 0.782608695652174,
+        "support": 23.0
+    },
+    "weighted avg": {
+        "precision": 0.8096989966555184,
+        "recall": 0.782608695652174,
+        "f1-score": 0.782608695652174,
+        "support": 23.0
+    },
+    "overall": {
+        "accuracy": 0.782608695652174,
+        "macro_f1": 0.782608695652174,
+        "macro_precision": 0.7961538461538462,
+        "macro_recall": 0.7961538461538462
+    }
+}
